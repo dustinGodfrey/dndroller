@@ -12,7 +12,7 @@
 
 <p>This application can be cleaned up and made much more efficient. I will be updating this application and making it more efficient over time, documenting the changes here.</p>
 
-<p>The Dice Roller has my character stats hard coded and replaces the dice rolling interface on sites like Dnd Beyond.</p>
+<p>The Dice Roller has my character stats hard coded and replaces the dice rolling interface on sites like DnD Beyond.</p>
 
 <p>This application has the following features:</p>
 - Roll Initiative<br>
