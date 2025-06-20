@@ -1,0 +1,51 @@
+ITEM				WEIGHT		QUANTITY		COST
+
+
+
+Cave Fisher Silk				-		25ft.		-
+	
+Clothes, Common				3lb.		1		0.5
+
+Crossbow Bolts				1.5lb.		20		1
+
+Crossbow, Light				5lb.		1		25
+
+Dagger				1lb.		1		2
+
+Gold				-		165		-
+
+Golden Teacher Mushrooms				10lb.		-		-
+
+Health Potion				-		1		-
+
+Ink, 1 oz				-		1		10
+
+Orb				3lb.		1		20
+
+Small Knife				-		1		-
+
+Small Red Mushroom				-		1		-
+
+Bedroll				7lb.		1		1
+
+Mess Kit				1lb.		1		0.2
+
+Rations (1 Day)				20lb.		9		5
+
+Revivify Scroll				-		1		-
+
+Rope, Hempen				10lb.		50ft.		1
+
+Tinderbox				1lb.		1		0.5
+
+Torch				10lb.		10		0.1
+
+Waterskin				5lb.		1		0.2
+
+Skull with Onyx Eyes				-		1		-
+
+Amulet of Communication				-		1		-
+
+Huge Statue Boobs				-		2		-
+
+Pretty Nice Statue Boobs				-		2		-	
