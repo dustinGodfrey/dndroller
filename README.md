@@ -1,9 +1,6 @@
-<div align="center">
 # Dungeons & Dragons Dice Roller
   &nbsp;
 
-  
-</div>
 
 ## Project Overview
 This was the first big Python project that I created in my free time during and after completion of the Intro to Programming course for my Cybersecurity degree.
